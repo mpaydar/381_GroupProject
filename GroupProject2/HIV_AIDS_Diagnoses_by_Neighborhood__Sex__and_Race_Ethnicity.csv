@@ -443,7 +443,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2013,East Harlem,Female,Hispanic,7,23.1,1,14.3,9,29.7
 2010,Bedford Stuyvesant - Crown Heights,Male,Hispanic,19,97.4,2,10.5,12,61.5
 2011,Unknown,Male,Multiracial,2,NA,0,NA,3,NA
-2012,Flushing - Clearview,Male,Native American,*,*,*,*,*,*
+2012,Flushing - Clearview,Male,Native American,0,0,0,0,0,0
 2011,Canarsie - Flatlands,Female,Asian/Pacific Islander,1,27.7,0,0,1,27.7
 2011,Borough Park,Male,Native American,0,0,0,0,0,0
 2010,Sunset Park,Female,Multiracial,0,0,0,0,0,0
@@ -1078,7 +1078,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2013,Unknown,Female,Hispanic,6,NA,1,NA,14,NA
 2012,Unknown,Female,Unknown,0,NA,0,NA,0,NA
 2010,East New York,All,All,104,55.1,20,19.2,82,43.4
-2012,East Flatbush - Flatbush,Male,Native American,*,*,*,*,*,*
+2012,East Flatbush - Flatbush,Male,Native American,0,0,0,0,0,0
 2010,Upper Eastside,Female,Asian/Pacific Islander,0,0,0,0,0,0
 2013,Lower Manhattan,Male,Native American,0,0,0,0,0,0
 2012,South Beach - Tottenville,Female,All,2,2.1,0,0,0,0
@@ -1429,7 +1429,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2012,Borough Park,Male,Native American,0,0,0,0,0,0
 2013,Pelham - Throgs Neck,Male,Native American,0,0,0,0,0,0
 2012,Northeast Bronx,Male,White,3,29.5,0,0,4,39.3
-2010,Long Island City - Astoria,Male,Native American,0,0,0,0,*,*
+2010,Long Island City - Astoria,Male,Native American,0,0,0,0,0,0
 2010,Unknown,Female,Multiracial,1,NA,0,NA,0,NA
 2012,Unknown,Female,Multiracial,1,NA,0,NA,0,NA
 2011,Northeast Bronx,Female,Asian/Pacific Islander,0,0,0,0,0,0
@@ -2049,12 +2049,12 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2012,East New York,Male,Black,41,94.6,16,39,38,87.6
 2013,Hunts Point - Mott Haven,Female,Asian/Pacific Islander,0,0,0,0,0,0
 2011,East Flatbush - Flatbush,All,All,168,56.4,38,22.6,118,39.6
-2010,Northeast Bronx,Male,Native American,*,*,0,0,0,0
+2010,Northeast Bronx,Male,Native American,0,0,0,0,0,0
 2010,Rockaway,Female,All,15,24.5,4,26.7,17,27.8
 2013,Fordham - Bronx Park,Male,Native American,0,0,0,0,0,0
 2010,Kingsbridge - Riverdale,Male,All,12,29.3,4,33.3,12,29.3
 2013,Central Harlem - Morningside Heights,Male,Black,57,139.8,18,31.6,43,105.4
-2013,Ridgewood - Forest Hills,Male,Native American,*,*,0,0,0,0
+2013,Ridgewood - Forest Hills,Male,Native American,0,0,0,0,0,0
 2012,High Bridge - Morrisania,Female,Black,21,54.2,3,14.3,20,51.6
 2012,Greenwich Village - SoHo,Female,Multiracial,0,0,0,0,0,0
 2010,Unknown,Female,All,44,NA,5,NA,45,NA
@@ -2386,7 +2386,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2010,Canarsie - Flatlands,Female,White,2,8,1,50,1,4
 2012,Chelsea - Clinton,Female,Black,4,104.9,1,25,4,104.9
 2013,East Flatbush - Flatbush,Female,All,38,23,10,26.3,31,18.8
-2013,Bedford Stuyvesant - Crown Heights,Male,Native American,*,*,0,0,*,*
+2013,Bedford Stuyvesant - Crown Heights,Male,Native American,0,0,0,0,0,0
 2011,Jamaica,Male,Native American,0,0,0,0,0,0
 2012,Crotona - Tremont,Male,Native American,0,0,0,0,0,0
 2011,Fresh Meadows,Male,Asian/Pacific Islander,2,12.8,1,50,1,6.4
@@ -2458,7 +2458,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2013,Jamaica,Female,Hispanic,5,18.7,0,0,2,7.5
 2011,Port Richmond,Female,Black,1,10.5,0,0,4,41.9
 2011,Pelham - Throgs Neck,Male,Hispanic,36,50.9,8,22.2,27,38.2
-2010,Northeast Bronx,Female,Native American,*,*,0,0,0,0
+2010,Northeast Bronx,Female,Native American,0,0,0,0,0,0
 2013,Stapleton - St. George,Female,Unknown,0,0,0,0,0,0
 2013,Union Square - Lower Eastside,Female,White,2,4.5,0,0,1,2.3
 2012,Northeast Bronx,Male,Unknown,0,0,0,0,0,0
@@ -2769,7 +2769,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2012,Coney Island - Sheepshead Bay,Male,Native American,0,0,0,0,0,0
 2013,Chelsea - Clinton,Female,Native American,0,0,0,0,0,0
 2012,Gramercy Park - Murray Hill,All,All,51,37.3,7,13.7,23,16.8
-2011,Downtown - Heights - Park Slope,Male,Native American,*,*,0,0,0,0
+2011,Downtown - Heights - Park Slope,Male,Native American,0,0,0,0,0,0
 2010,Gramercy Park - Murray Hill,Female,Black,1,43,0,0,3,129.1
 2010,Upper Eastside,Female,White,1,1,0,0,0,0
 2010,Greenwich Village - SoHo,Male,Multiracial,0,0,0,0,0,0
