@@ -503,7 +503,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2012,Borough Park,Female,Multiracial,0,0,0,0,0,0
 2010,Bayside - Little Neck,Female,Asian/Pacific Islander,0,0,0,0,0,0
 2013,Upper Westside,Female,Multiracial,1,37.8,0,0,0,0
-2012,Hunts Point - Mott Haven,Male,Asian/Pacific Islander,0,0,0,0,*,*
+2012,Hunts Point - Mott Haven,Male,Asian/Pacific Islander,0,0,0,0,0,0
 2012,Pelham - Throgs Neck,Female,Asian/Pacific Islander,0,0,0,0,0,0
 2013,Upper Eastside,Female,All,5,3.9,3,60,6,4.7
 2011,Coney Island - Sheepshead Bay,Female,Multiracial,0,0,0,0,0,0
@@ -612,7 +612,7 @@ YEAR,Neighborhood (U.H.F),SEX,RACE/ETHNICITY,TOTAL NUMBER OF HIV DIAGNOSES,"HIV 
 2010,South Beach - Tottenville,Female,Asian/Pacific Islander,0,0,0,0,0,0
 2010,Fresh Meadows,Male,White,1,5,0,0,1,5
 2011,Ridgewood - Forest Hills,Female,Hispanic,3,8.8,0,0,1,2.9
-2012,Northeast Bronx,Female,Native American,0,0,0,0,*,*
+2012,Northeast Bronx,Female,Native American,0,0,0,0,0,0
 2011,Bedford Stuyvesant - Crown Heights,Female,All,71,40.5,21,29.6,61,34.8
 2010,Pelham - Throgs Neck,Male,Unknown,0,0,0,0,0,0
 2010,Central Harlem - Morningside Heights,Female,All,27,30.5,4,14.8,26,29.3
